@@ -1,1 +1,1 @@
-# calmiq
+# CALMIQ
