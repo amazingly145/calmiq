@@ -1,0 +1,98 @@
+.login-page-container {
+    background-color: #37A7A7;
+    padding: 100px 0 0 0;
+    text-align: center;
+    min-height: 100vh;
+    margin-bottom: -220px;
+    margin-top: -50px;
+}
+.form-background {
+    background-color: #37A7A7;
+    padding: 60px 20px;
+    max-width: 550px;
+    margin: 0 auto;
+    color: white;
+    border-radius: 8px;
+    box-shadow: none;
+}
+.form-background h1 {
+    font-size: 2em;
+    margin-bottom: 25px;
+}
+.form-background h2 {
+    font-weight: normal;
+    margin-bottom: 5px;
+}
+.login-form {
+    text-align: left;
+    margin: 30px auto;
+    max-width: 300px;
+}
+.login-form label {
+    display: block;
+    margin-top: 15px;
+    margin-bottom: 5px;
+    font-size: 14px;
+}
+.login-form input[type="text"],
+.login-form input[type="password"] {
+    width: 100%;
+    padding: 10px 15px;
+    margin: 0 0 20px 0;
+    border: none;
+    border-radius: 5px;
+    box-sizing: border-box;
+    color: black;
+}
+.submit-button {
+    background-color: #333;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    font-size: 16px;
+    display: block;
+    width: auto;
+    margin: 20px auto;
+
+    text-decoration: none;
+    text-align: center;
+}
+.link-group a {
+    color: white;
+    text-decoration: underline;
+    margin: 0 10px;
+    font-size: 14px;
+    display: inline-block;
+}
+.login-data-section {
+    width: 100vw;
+    padding: 80px 0;
+    background: #37A7A7;
+    text-align: center;
+    overflow: hidden;
+    padding-top: 100px;
+}
+.login-data-section .d-title {
+    font-family: 'Brush Script MT', cursive;
+    font-size: 55px;
+    color: white;
+    text-align: left;
+    padding-left: 100px;
+}
+.login-data-section .d-links-text {
+    font-size: 20px;
+    color: white;
+    text-align: left;
+    padding-left: 100px;
+    margin-bottom: 10px;
+    line-height: 1.5;
+}
+.login-data-section .d-contacts-text {
+    font-size: 20px;
+    color: white;
+    text-align: right;
+    padding-right: 100px;
+    margin-top: -120px;
+}

@@ -1,0 +1,55 @@
+/*seccion principal*/
+.modelo-section {
+    width: 100%;
+    padding: 50px 0;
+    background: #EFEEDB;
+    text-align: center;
+    position: relative;
+}
+
+/*estilo del encabezado*/
+.modelo-header {
+    margin-bottom: 10px;
+}
+
+/*titulo principal*/
+.modelo-header h2 {
+    font-family: 'Brush Script MT', cursive;
+    font-size: 55px;
+    color: #37A7A7;
+    margin-top: 0px;
+}
+
+/*linea blanca*/
+.white-line {
+    width: 300px;
+    height: 3px;
+    background: #37A7A7;
+    margin: 0 auto;
+}
+
+.modelo-header .sub-header-text {
+    font-family: 'Brush Script MT', cursive;
+    color: #37A7A7;
+    font-size: 50px;
+    margin-top: 5px;
+}
+
+.m-grid {
+    padding: 50px;
+    display: flex;
+    justify-content: flex-start;
+}
+
+.m-card {
+    width: 30%;
+    background: #CDE5E5;
+    padding: 20px;
+    border-radius: 15px;
+}
+
+.m-card p {
+    font-size: 21.6px;
+    text-align: left;
+    color: #37A7A7;
+}
